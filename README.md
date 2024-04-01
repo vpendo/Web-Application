@@ -1,6 +1,5 @@
 
 ## Todo App
-
 This is a simple Todo App built using HTML, CSS (Tailwind CSS), and JavaScript. It allows users to add, delete, and mark todos as done.
 
 ## Features
