@@ -1,5 +1,4 @@
 # Web Application
-![image](https://github.com/vpendo/Web-Application/assets/144009226/a119fafb-1d35-4d8b-9390-092859d53b27)
 
 This is a simple web application for managing tasks. Users can add, view, and mark tasks as completed. The application is designed using HTML, CSS, and JavaScript.
 
@@ -47,6 +46,8 @@ git clone https://github.com/vpendo/web-application.git
 2. Open `index.html` in a web browser.
 
 ## Screenshots
-
-[Add screenshots of the application in action]
+![Screenshot 1](screenshot/view.png)
+![Screenshot 1](screenshot/add.png)
+![Screenshot 1](screenshot/complete.png)
+![Screenshot 1](screenshot/delete.png)
 
