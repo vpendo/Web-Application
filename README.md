@@ -47,7 +47,10 @@ git clone https://github.com/vpendo/web-application.git
 
 ## Screenshots
 ![Screenshot 1](Web Application/static-html-directory/screenshot/view.png)
+
 ![Screenshot 1](Web Application/static-html-directory/screenshot/add.png)
+
 ![Screenshot 1](Web Application/static-html-directory/screenshot/complete.png)
+
 ![Screenshot 1](Web Application/static-html-directory/screenshot/delete.png)
 
