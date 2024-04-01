@@ -46,8 +46,8 @@ git clone https://github.com/vpendo/web-application.git
 2. Open `index.html` in a web browser.
 
 ## Screenshots
-![Screenshot 1](screenshot/view.png)
-![Screenshot 1](screenshot/add.png)
-![Screenshot 1](screenshot/complete.png)
-![Screenshot 1](screenshot/delete.png)
+![Screenshot 1](Web Application/static-html-directory/screenshot/view.png)
+![Screenshot 1](Web Application/static-html-directory/screenshot/add.png)
+![Screenshot 1](Web Application/static-html-directory/screenshot/complete.png)
+![Screenshot 1](Web Application/static-html-directory/screenshot/delete.png)
 
