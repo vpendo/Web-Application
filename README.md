@@ -30,11 +30,12 @@ This is a simple Todo App built using HTML, CSS (Tailwind CSS), and JavaScript. 
 ![Screenshot](screenshot/delete.png)
 
 -Click on the "Done" button to mark a todo as completed.
+
+![Screenshot](screenshot/done.png)
 ## Docker repository
 
 https://hub.docker.com/repository/docker/vpendo06/web-application/general
 
-![Screenshot](screenshot/done.png)
 
 ## Dependencies
 
