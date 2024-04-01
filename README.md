@@ -1,2 +1,3 @@
 # Web-Application
-The main objective is to develop a minimal viable product (MVP) of the project management web application using HTML, CSS, and JavaScript
+This is a simple web application for managing tasks. Users can add, view, and mark tasks as completed. The application is designed using HTML, CSS, and JavaScript.
+
