@@ -17,6 +17,7 @@ The application has a clean and intuitive user interface, featuring a notebook-t
 - HTML
 - CSS
 - JavaScript
+- Docker
 
 ## Application Structure
 
@@ -24,6 +25,7 @@ The application has a clean and intuitive user interface, featuring a notebook-t
 - `style.css`: CSS file for styling the application.
 - `script.js`: JavaScript file for handling user interactions and task management.
 - `images`: Directory containing images used in the application.
+- `dockerfile`:
 
 ## Functionality
 
@@ -38,7 +40,7 @@ To run the application locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/web-application.git
+git clone https://github.com/vpendo/web-application.git
 ```
 
 2. Open `index.html` in a web browser.
@@ -47,6 +49,3 @@ git clone https://github.com/yourusername/web-application.git
 
 [Add screenshots of the application in action]
 
-## Contributions
-
-Contributions to the project are welcome. If you'd like to contribute, please fork the repository and submit a pull request.
